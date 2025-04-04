@@ -36,19 +36,19 @@ const Main = () => {
             </div>
             <div className="cards">
               <div className="card">
-                <p>Suggest features for gemini AI</p>
+                <p>Suggest some places to visit in Kolkata</p>
                 <img src={assets.compass_icon} alt="" />
               </div>
               <div className="card">
-                <p>Breifly explain gemini AI</p>
+                <p>What are the symptoms of Diabetes ?</p>
                 <img src={assets.message_icon} alt="" />
               </div>
               <div className="card">
-                <p>improve readability of code</p>
+                <p>Improve readability of code</p>
                 <img src={assets.code_icon} alt="" />
               </div>
               <div className="card">
-                <p>improve readability of code</p>
+                <p>How to install auto-cpufreq in Arch linux ?</p>
                 <img src={assets.bulb_icon} alt="" />
               </div>{" "}
             </div>
