@@ -1,12 +1,25 @@
-# React + Vite
+# 🤖 Hyperion - AI-Powered Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hyperion is an intelligent, interactive web-based chatbot built using **React.js** and powered by **Google’s Gemini API**. This project demonstrates the integration of Artificial Intelligence (AI) and Natural Language Processing (NLP) within a modern frontend framework to simulate human-like conversations.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Real-time AI-powered chat using Gemini API
+- 💬 Human-like natural language responses
+- 🌐 Web-based interface with clean UI
+- 🚀 Built with React.js for speed and scalability
+- 🔒 Secure API key integration via environment variables
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, HTML, CSS
+- **AI Backend**: Google Gemini API
+- **Other Tools**: Vite, npm, Node.js
+
+## 🧠 How It Works
+
+Hyperion uses the Gemini generative AI model to interpret user input and generate appropriate responses. It maintains context through conversational history and provides real-time interaction within a React-powered frontend.
+
+
+
