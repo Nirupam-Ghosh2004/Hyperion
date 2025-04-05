@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyABJiOaSThHHgyVPPdO56xziL1MatcYNgY";
+const apiKey = "AIzaSyA9da6EpoJbf4bZEev6SjKSKBrQyjEm8Nc";
 // geminiApi.js (Separate file for Gemini API interaction)
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import * as mime from 'mime-types';
